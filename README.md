@@ -1,7 +1,7 @@
 # Desafio Final - Trilha Engenheiro IA Microsoft
 
--1 Provisionamento de máquinas.  
--2 Configuração de cluster.  
+1- Provisionamento de máquinas.  
+2- Configuração de cluster.  
 3- Levantamento do banco de notas do Enem.  
 4- Normalização dos dados.  
 5- Divisão dos dados em 70% de treinamento.  
