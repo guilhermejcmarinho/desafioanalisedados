@@ -15,4 +15,6 @@
 11- Removido o módulo de limpeza linhas.  
 12- Aplicada as transformações necessárias.  
 13- Criação de script python para gerar resultado da nota prevista.  
-![alt text](https://github.com/herigson/desafioanalisedados/blob/main/imagens/inferencia-auto-nota.png)
+![alt text](https://github.com/herigson/desafioanalisedados/blob/main/imagens/inferencia-auto-nota.png)  
+#Resultado  
+![alt text](https://github.com/herigson/desafioanalisedados/blob/main/imagens/resultado.jpg)
