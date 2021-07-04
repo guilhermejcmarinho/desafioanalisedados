@@ -10,5 +10,9 @@
 8- Avaliação do modelo de pontuação.  
 9- Avaliação do funcionamento do modelo.  
 ![alt text](https://github.com/herigson/desafioanalisedados/blob/main/imagens/Treinamento-da-AI.png)  
-10-teste
+# Automatização da análise de dados.  
+10- Substituição do banco do enem pela entrada manual de dados.  
+11- Removido o módulo de limpeza linhas.  
+12- Aplicada as transformações necessárias.  
+13- Criação de script python para gerar resultado da nota prevista.  
 ![alt text](https://github.com/herigson/desafioanalisedados/blob/main/imagens/inferencia-auto-nota.png)
