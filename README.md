@@ -9,4 +9,6 @@
 7- Aplicação do modelo de treinamento.  
 8- Avaliação do modelo de pontuação.  
 9- Avaliação do funcionamento do modelo.  
-![alt text](https://github.com/herigson/desafioanalisedados/blob/main/imagens/Treinamento-da-AI.png)
+![alt text](https://github.com/herigson/desafioanalisedados/blob/main/imagens/Treinamento-da-AI.png)  
+10-teste
+![alt text](https://github.com/herigson/desafioanalisedados/blob/main/imagens/inferencia-auto-nota.png)
