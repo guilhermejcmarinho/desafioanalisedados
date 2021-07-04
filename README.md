@@ -3,4 +3,4 @@
 -1 Provisionamento de máquinas.
 -2 Configuração de cluster.
 -3 
-![alt text](desafioanalisedados/imagens/provisao.png)
+![alt text](https://github.com/herigson/desafioanalisedados/blob/main/imagens/Treinamento-da-AI.png)
